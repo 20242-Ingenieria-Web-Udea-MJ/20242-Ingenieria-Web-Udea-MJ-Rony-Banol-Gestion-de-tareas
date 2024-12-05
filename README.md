@@ -7,7 +7,7 @@
 ## 🚀 Despliegue
 
 Accede a la aplicación en el siguiente enlace:  
-🔗 [Gestión de Tareas]([https://rony-banol-gestion-de-tareas.vercel.app/])
+🔗 [Gestión de Tareas](https://rony-banol-gestion-de-tareas.vercel.app/)
 
 ---
 
@@ -38,7 +38,7 @@ Accede a la aplicación en el siguiente enlace:
 ---
 
 bash
-git clone https://github.com/Rony-San/Rony-Banol-Gestion-de-tareas.git
+git clone [https://github.com/Rony-San/Rony-Banol-Gestion-de-tareas.git](https://github.com/20242-Ingenieria-Web-Udea-MJ/Rony-Banol-Gestion-de-tareas)
 cd Rony-Banol-Gestion-de-tareas
 
 ### 2. Instalar dependencias
