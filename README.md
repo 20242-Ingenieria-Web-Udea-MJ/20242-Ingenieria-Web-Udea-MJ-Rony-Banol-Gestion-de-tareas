@@ -7,7 +7,7 @@
 ## 🚀 Despliegue
 
 Accede a la aplicación en el siguiente enlace:  
-🔗 [Gestión de Tareas]([https://rony-banol-gestion-de-tareas.vercel.app/](https://github.com/20242-Ingenieria-Web-Udea-MJ/Rony-Banol-Gestion-de-tareas))
+🔗 [Gestión de Tareas]([https://rony-banol-gestion-de-tareas.vercel.app/])
 
 ---
 
